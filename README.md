@@ -126,16 +126,6 @@ Me chamo Mathias Fuhr, tenho 30 anos e sou natural do Rio Grande do Sul. Estou e
 
 ---
 
-### 📊 Projetos em Destaque
-
-- **[E-commerce Simples](https://github.com/mathiasfuhr/ecommerce-simples):** Um site responsivo com carrinho de compras usando React e Tailwind.
-- **[Sistema de Blog](https://github.com/mathiasfuhr/sistema-blog):** Aplicação com Next.js, autenticação e criação de posts.
-- **[Landing Page Responsiva](https://github.com/mathiasfuhr/landing-page):** Página moderna e otimizada para dispositivos móveis.
-
-Explore mais no meu [GitHub](https://github.com/mathiasfuhr?tab=repositories).
-
----
-
 ### 📊 Estatísticas
 
 <p>
