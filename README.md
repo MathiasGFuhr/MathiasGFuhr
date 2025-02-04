@@ -5,20 +5,6 @@
 Me chamo Mathias Fuhr, tenho 30 anos e sou natural do Rio Grande do Sul. Estou em transição de carreira para a área de tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas na Gran Faculdade. Minha paixão é criar interfaces dinâmicas e amigáveis, utilizando tecnologias modernas de front-end. Estou sempre em busca de novos desafios para ampliar meu conhecimento e evoluir como desenvolvedor.
 
 <p align="left">
-    <a href="https://github.com/mathiasfuhr?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mathiasfuhr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/mathiasfuhr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mathiasfuhr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/mathiasfuhr/">
         <img 
             alt="LinkedIn" 
